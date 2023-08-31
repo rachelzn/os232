@@ -1,4 +1,0 @@
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
-ZCZC W00 5 L03 GitHub related
