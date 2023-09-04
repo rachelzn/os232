@@ -1,4 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode + Description List
+
 ZCZC W00 15 L03 GitHub related
+ZCZC W00 30 L10 Assignment #00 (setting up repository, github page, etc.)
+ZCZC W00 20 L01 SCeLE related
+ZCZC w00 5 L05 Installing SEB and trying out dummy quiz
+ZCZC W00 20 L06 GSGS Linux related
+ZCZC W00 100 L02 Tuesday's synchronous class
+ZCZC W00 100 L02 Thursday's synchronous class
+ZCZC W00 100 L10 Assignment #00 (reading assignment, etc.)
+ZCZC W00 20 L05 Quiz related
