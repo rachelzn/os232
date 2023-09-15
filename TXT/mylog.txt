@@ -12,3 +12,10 @@ ZCZC W00 100 L10 Assignment #5 (reading assignment, etc.)
 ZCZC W00 20 L05 Quiz related
 ZCZC W01 100 L02 Tuesday's synchronous class
 ZCZC W01 100 L02 Thursday's synchronous class
+ZCZC W01 120 L11 Assignment #01 (setting up UTM)
+ZCZC W01 90 L12 Assignment #02 (GSGS and read)
+ZCZC W01 30 L40 TXT/ related (updated mylog and created myupdate for w01)
+ZCZC W01 40 L22 Trying Linux commands
+ZCZC W02 100 L02 Tuesday's synchronous class
+ZCZC W02 100 L02 Thursday's synchronous class
+ZCZC W02 60 L11 Assignment #01 (Readings, Watchings, and Demos)
