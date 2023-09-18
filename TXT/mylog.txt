@@ -1,3 +1,4 @@
+
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 
@@ -19,3 +20,10 @@ ZCZC W01 40 L22 Trying Linux commands
 ZCZC W02 100 L02 Tuesday's synchronous class
 ZCZC W02 100 L02 Thursday's synchronous class
 ZCZC W02 60 L11 Assignment #01 (Readings, Watchings, and Demos)
+ZCZC W02 60 L64 Helping a friend (OS related problem)
+ZCZC W02 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W02 120 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 20 L40 TXT/ related in general.
+ZCZC W02 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 35 L05 Quiz related including studying
