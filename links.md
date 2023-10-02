@@ -11,3 +11,6 @@ A very concise yet comprehensive explanation of Linux directories. Ideal for new
 3. [How to tar a Folder in Linux?]
 (https://linuxhint.com/tar-folder-linux/)<br>
 Very helpful for Linux users. It provides clear guidance on using the 'tar' command to create compressed archive files of directories, a crucial skill for efficient data management on Linux.<br>
+4. [Introduction to Pointers in C]
+(https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
+Provides an introduction to the concept of pointers. The presentation in the video is well-executed and concise, lasting under five minutes. The key points covered in the video greatly aid in my understanding of pointers.<br>
