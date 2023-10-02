@@ -31,3 +31,6 @@ ZCZC W03 100 L02 Tuesday's synchronous class
 ZCZC W03 100 L02 Thursday's synchronous class
 ZCZC W03 5 L08 LINE with a friend asking OS related stuff
 ZCZC W03 90 L09 Doing W03 Assignment
+ZCZC W04 100 L02 Tuesday's synchronous class
+ZCZC W04 L22 Linux CLI including tar, etc.
+ZCZC W04 120 L32 Watching OS related material on Youtube
