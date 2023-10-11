@@ -34,3 +34,7 @@ ZCZC W03 90 L09 Doing W03 Assignment
 ZCZC W04 100 L02 Tuesday's synchronous class
 ZCZC W04 L22 Linux CLI including tar, etc.
 ZCZC W04 120 L32 Watching OS related material on Youtube
+ZCZC W05 20 L00 General,etc.
+ZCZC W05 30 L01 SCELE/Discord related
+ZCZC W05 30 L03 GitHub related
+ZCZC W05 120 Doing W05 Assignment

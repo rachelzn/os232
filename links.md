@@ -14,3 +14,6 @@ Very helpful for Linux users. It provides clear guidance on using the 'tar' comm
 4. [Introduction to Pointers in C]
 (https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
 Provides an introduction to the concept of pointers. The presentation in the video is well-executed and concise, lasting under five minutes. The key points covered in the video greatly aid in my understanding of pointers.<br>
+5. [Virtual Memory in Operating System]
+(https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Explore the concept of virtual memory in operating systems with GeeksforGeeks.<br>
