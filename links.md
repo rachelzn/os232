@@ -17,3 +17,6 @@ Provides an introduction to the concept of pointers. The presentation in the vid
 5. [Virtual Memory in Operating System]
 (https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
 Explore the concept of virtual memory in operating systems with GeeksforGeeks.<br>
+6. [Fork() in C Programming Language]
+(https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+A very helpful short guide on fork() in C.<br>
