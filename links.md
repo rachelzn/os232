@@ -20,3 +20,6 @@ Explore the concept of virtual memory in operating systems with GeeksforGeeks.<b
 6. [Fork() in C Programming Language]
 (https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
 A very helpful short guide on fork() in C.<br>
+7. [Process Synchronization Playlist by Neso Academy]
+(https://youtu.be/ph2awKa8r5Y?si=lRuSL7DzrKWT2clJ)<br>
+Yet another exceptional creation from this channel, it's a must-see if you aim to gain a more profound insight into the concept of process synchronization.<br>

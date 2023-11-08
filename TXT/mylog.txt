@@ -43,4 +43,8 @@ ZCZC W06 100 L02 Thursday's synchronous class
 ZCZC W06 5 L08 LINE a friend asking OS related stuff
 ZCZC W06 70 L09 Doing W06 Assignment
 ZCZC W06 90 L87 Pilates
+ZCZC W07 100 L02 Tuesday's synchronous class
+ZCZC W07 100 L02 Thursday's synchronous class
+ZCZC W07 60 L05 Quiz related
+ZCZC W07 150 L09 Doing W07 Assignment
 
