@@ -23,3 +23,6 @@ A very helpful short guide on fork() in C.<br>
 7. [Process Synchronization Playlist by Neso Academy]
 (https://youtu.be/ph2awKa8r5Y?si=lRuSL7DzrKWT2clJ)<br>
 Yet another exceptional creation from this channel, it's a must-see if you aim to gain a more profound insight into the concept of process synchronization.<br>
+8. [LFS 12.0 - How to build Linux From Scratch (LFS) 12.0]
+(https://youtu.be/Z5ijC_b2U4o?si=4FK_ujb1YpydXqf0)<br>
+This is essential viewing for anyone seeking a smooth LFS journey. LITERALLY SAVED MY LIFE.<br>
