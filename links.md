@@ -26,3 +26,6 @@ Yet another exceptional creation from this channel, it's a must-see if you aim t
 8. [LFS 12.0 - How to build Linux From Scratch (LFS) 12.0]
 (https://youtu.be/Z5ijC_b2U4o?si=4FK_ujb1YpydXqf0)<br>
 This is essential viewing for anyone seeking a smooth LFS journey. LITERALLY SAVED MY LIFE.<br>
+9. [Linux From Scratch -  Version arm64-r12.0-99]
+(https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/index.html)<br>
+Spent a lot of time on this one, so why not give a credit ;)<br>
