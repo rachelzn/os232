@@ -49,6 +49,10 @@ ZCZC W07 60 L05 Quiz related
 ZCZC W07 150 L09 Doing W07 Assignment
 ZCZC W08 20 L05 Quiz related
 ZCZC W08 10 L08 LINE a friend asking OS related stuff
-ZCZC W08 300 L09 Doing W07 Assignment
+ZCZC W08 300 L09 Doing W08 Assignment
 ZCZC W08 100 L32 Watching OS related material on Youtube
+ZCZC W09 20 L05 Quiz related
+ZCZC W09 30 L08  LINE a friend asking OS related stuff
+ZCZC W09 240 L09 Doing W09 Assignment
+ZCZC W09 120 L32 Watching OS related material on Youtube
 
